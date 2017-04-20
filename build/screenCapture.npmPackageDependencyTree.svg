@@ -1,0 +1,29 @@
+<svg height="414" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="414" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ jscoverage@0.6.0 </tspan>
+<tspan x="10" y="90">  ├── coffee-script@1.12.5 </tspan>
+<tspan x="10" y="106">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="122">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="138">  ├─┬ debug@1.0.4 </tspan>
+<tspan x="10" y="154">  │ └── ms@0.6.2 </tspan>
+<tspan x="10" y="170">  ├── ejs@1.0.0 </tspan>
+<tspan x="10" y="186">  ├─┬ optimist@0.6.1 </tspan>
+<tspan x="10" y="202">  │ ├── minimist@0.0.10 </tspan>
+<tspan x="10" y="218">  │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="234">  ├─┬ uglify-js@2.4.24 </tspan>
+<tspan x="10" y="250">  │ ├── async@0.2.10 </tspan>
+<tspan x="10" y="266">  │ ├─┬ source-map@0.1.34 </tspan>
+<tspan x="10" y="282">  │ │ └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="298">  │ ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="314">  │ └─┬ yargs@3.5.4 </tspan>
+<tspan x="10" y="330">  │   ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="346">  │   ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="362">  │   ├── window-size@0.1.0 </tspan>
+<tspan x="10" y="378">  │   └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="394">  └── xfs@0.1.10</tspan>
+</text>
+</svg>
